@@ -1,0 +1,2 @@
+rm -rf /home/aliakhlaghi/codes/ckpts/logs/*
+tensorboard --logdir /home/aliakhlaghi/codes/ckpts/logs --port 6020 --bind_all
